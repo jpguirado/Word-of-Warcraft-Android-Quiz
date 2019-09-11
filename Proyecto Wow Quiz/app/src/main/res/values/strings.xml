@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Warcraft Quiz</string>
+
+
+    <string name="PREGUNTATIPO">PREGUNTA EXMPLO</string>
+    <string name="RESPUESTATIPO">Lorem ipsum</string>
+    <string name="PUNTUACION">Puntuación:</string>
+    <string name="ScoreDefValue">0</string>
+    <string name="Check">Verificar</string>
+    <string name="ImageDesc">Imagen</string>
+
+
+    <string name="NUMPREGUNTAS">"6"</string>
+    <string name="PREGUNTASACTUAL">"Pregunta actual:"</string>
+    <string name="FALLOSACIERTOS">"Aciertos / Fallos:"</string>
+
+    <string name="MENU">"Menú principal"</string>
+    <string name="JUGAR">"Jugar"</string>
+    <string name="PUNTUACIONES">"Puntuaciones"</string>
+    <string name="OPCIONES">"Opciones"</string>
+    <string name="LOGO">"Logo del juego"</string>
+
+    <string name="DIFIULTAD">"Dificultad"</string>
+    <string name="FACIL">"Fácil"</string>
+    <string name="DIFICIL">"Difícil"</string>
+    <string name="CERRAR">Cerrar</string>
+
+
+</resources>
